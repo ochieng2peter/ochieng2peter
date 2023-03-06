@@ -20,30 +20,28 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ochieng2peter" alt="ochieng2peter" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nahspeter" target="blank"><img src="https://img.shields.io/twitter/follow/nahspeter?logo=twitter&style=for-the-badge" alt="nahspeter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/peteroodero" target="blank"><img src="https://img.shields.io/twitter/follow/nahspeter?logo=twitter&style=for-the-badge" alt="peteroodero" /></a> </p>
 
-- 🔭 I’m currently working on [ALX's low-level-programming Project](https://github.com/ochieng2peter/alx-low_level_programming)
+- 🔭 I’m currently working on **[ALX's low-level-programming Project](https://github.com/ochieng2peter/alx-low_level_programming)**
 
-- 🌱 I’m currently learning **SE at ALX and Holberton School**
+- 🌱 I’m currently learning **SE at [ALX and Holberton School](https://www.holbertonschool.com/)**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **Alx's high-level-programming**
+- 👯 I’m looking to collaborate on **Web Applications, Network Monitoring Apps and Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ochieng2peter](https://github.com/ochieng2peter)
 
-- 💬 Ask me about **Linux, Bash, C, Python, JavaScript, HTML, CSS, React, Tailwind, Bootstrap**
+- 💬 Ask me about **Linux, Bash, C, Python, JavaScript, HTML, CSS, React, Tailwind, Bootstrap, Figma, Project Managamenet and System Engineering Devops**
 
-- 📫 How to reach me **ochieng2peter@gmail.com**
+- 📫 Please email me at: **ochieng2peter@gmail.com**
 
-- ⚡ Fun fact **I think motorcycles are very very dangerous at the least, but they are fun to ride at times!**
+- ⚡ Fun fact **I think motorcycles are very very dangerous at the least, but they are fun to ride at times and I also think they need additional safety engineering!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Nahspeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahspeter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peter (odero) ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter (odero) ochieng" height="30" width="40" /></a>
+<a href="https://twitter.com/peteroodero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Peteroodero" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/freelanceprojectmanager/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter (odero) ochieng" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21030935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21030935" height="30" width="40" /></a>
-<a href="https://fb.com/nahspeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahspeter" height="30" width="40" /></a>
+<a href="https://facebook.com/danqpeter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Peter Odero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
