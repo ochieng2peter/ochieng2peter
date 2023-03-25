@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
-<h1 align="center">Hi,<br> My name is Peter Odero</h1>
-<h4 align="center">A dedicated Full-Stack developer from Nairobi Kenya. I am passionate about robust systems and have a special interest in web development, Artificial Intelligence and Machine learning. I believe that culture is dynamic and change is the basis of every mankind.</h4>
+<h1 align="center">Hey,<br> My name is Peter</h1>
+<h4 align="center">I'm on a journey to being an amazing Full-Stack developer. I am passionate about robust systems and have a special interest in web development, Artificial Intelligence and Machine learning. I believe that culture is dynamic and change is the basis of every mankind.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochieng2peter&label=Profile%20views&color=0e75b6&style=flat" alt="ochieng2peter" /> </p>
 
