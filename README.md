@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 <h1 align="center">Hey,<br> My name is Peter</h1>
-<h4 align="center">I'm on a journey to being an amazing Full-Stack developer. I am passionate about robust systems and have a special interest in web development, Artificial Intelligence and Machine learning. I believe that culture is dynamic and change is the basis of every mankind.</h4>
+<h4 align="center">I'm on a journey to being an amazing Full-Stack Developer. I am passionate about robust systems and have a special interest in Web Development, Artificial Intelligence and Machine Learning. I believe that culture is dynamic and change is the basis of every mankind.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochieng2peter&label=Profile%20views&color=0e75b6&style=flat" alt="ochieng2peter" /> </p>
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[ALX's low-level-programming Project](https://github.com/ochieng2peter/alx-low_level_programming)**
 
-- 🌱 I’m currently learning **SE at [ALX and Holberton School](https://www.holbertonschool.com/)**
+- 🌱 In so doing, I'm learning **SE at [ALX and Holberton School](https://www.holbertonschool.com/)**
 
 - 👯 I’m looking to collaborate on **Web Applications, Network Monitoring Apps and Open Source Projects**
 
